@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\bin\Debug\Models.dll
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\bin\Debug\Models.pdb
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\obj\Debug\Models.dll
+C:\Users\Usuario\Documents\UTN\Programacion 3\Proyecto progra 3\tp-winform-equipo-9A\Models\obj\Debug\Models.pdb
